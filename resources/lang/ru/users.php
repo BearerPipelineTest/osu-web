@@ -160,8 +160,8 @@ return [
             'count' => ':count_delimited комментарий|:count_delimited комментария|:count_delimited комментариев',
         ],
         'cover' => [
-            'to_0' => '',
-            'to_1' => '',
+            'to_0' => 'Скрыть обложку',
+            'to_1' => 'Показать обложку',
         ],
         'edit' => [
             'cover' => [

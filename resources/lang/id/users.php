@@ -160,8 +160,8 @@ return [
             'count' => ':count_delimited komentar|:count_delimited komentar',
         ],
         'cover' => [
-            'to_0' => '',
-            'to_1' => '',
+            'to_0' => 'Sembunyikan gambar sampul',
+            'to_1' => 'Tampilkan gambar sampul',
         ],
         'edit' => [
             'cover' => [
